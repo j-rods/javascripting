@@ -2,7 +2,7 @@
 var numbers;
 
 //make numbers reference array of integers
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 //declare var filtered that references the result of filtering numbers
 var filtered;
